@@ -6,22 +6,22 @@ const Footer = () => {
     <div className="bg-black py-10 px-6">
       <div className=" e-flex-container-footer lg:container mx-auto text-gray-100">
         <div>
-          <h2>© 2021 Ezone</h2>
+          <h2>© 2021 Ebook</h2>
         </div>
         <div>
           <h2 className="pb-2">Social Handles</h2>
           <ul className="text-gray-400">
             <li className="hover:text-gray-100">
-              <a href="https://www.instagram.com/_anizh_g/">Instagram</a>
+              <a href="#">Instagram</a>
             </li>
             <li className="hover:text-gray-100">
-              <a href="https://github.com/ebraj">GitHub</a>
+              <a href="#">GitHub</a>
             </li>
             <li className="hover:text-gray-100">
-              <a href="https://twitter.com/ebraj_g">Twitter</a>
+              <a href="#">Twitter</a>
             </li>
             <li className="hover:text-gray-100">
-              <a href="https://www.linkedin.com/in/ebrajgrg/">LinkedIn</a>
+              <a href="#">LinkedIn</a>
             </li>
           </ul>
         </div>
@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
 
         <div>
-          <h2>| Ebraj Grg |</h2>
+          <h2>Ebook</h2>
         </div>
       </div>
     </div>

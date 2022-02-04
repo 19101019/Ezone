@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Payment from "../Payment/Payment";
 import SuccessCmp from "../SuccessCmp/SuccessCmp";
 import CartContent from "./CartContent";
 import "./CartContent.scss";
@@ -57,11 +56,7 @@ const Cart = ({
             </div>
             {/* Left Section */}
             <div>
-              <Payment
-                retrievedData={retrievedData}
-                checkTheMailSent={checkTheMailSent}
-                deleteTheCart={deleteTheCart}
-              />
+             
             </div>
           </div>
         </div>

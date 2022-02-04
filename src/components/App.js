@@ -17,7 +17,7 @@ import Phones from "./Phones/Phones";
 import Footer from "./Footer/Footer";
 import SpecsCmp from "./SpecsCmp/SpecsCmp";
 import Cart from "./Cart/Cart";
-import PageNotFound from "./PageNotFound";
+
 
 const App = () => {
   const [currentItem, setCurrentItem] = useState([]);
